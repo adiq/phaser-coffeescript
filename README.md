@@ -1,6 +1,7 @@
 ### What this is?
 
-It's up-to-date working skeleton app for building games using Phaser and CoffeeScript
+It's up-to-date working skeleton app for building games using Phaser and CoffeeScript.
+
 Forked from tchannel - thanks :)
 
 ### Dependencies 
