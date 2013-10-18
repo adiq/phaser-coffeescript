@@ -2,7 +2,7 @@
 root = exports ? this
 
 # Our Main game class
-class Main extends Phaser.State
+class root.Main extends Phaser.State
     constructor: -> super
 
     preload: ()->
